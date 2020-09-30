@@ -13,6 +13,7 @@
 		3019A77725250215007E4C9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3019A77525250215007E4C9D /* Main.storyboard */; };
 		3019A77925250216007E4C9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3019A77825250216007E4C9D /* Assets.xcassets */; };
 		3019A77C25250216007E4C9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3019A77A25250216007E4C9D /* LaunchScreen.storyboard */; };
+		3019A78725250D8A007E4C9D /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3019A78625250D8A007E4C9D /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3019A77825250216007E4C9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3019A77B25250216007E4C9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3019A77D25250216007E4C9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3019A78625250D8A007E4C9D /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3019A77825250216007E4C9D /* Assets.xcassets */,
 				3019A77A25250216007E4C9D /* LaunchScreen.storyboard */,
 				3019A77D25250216007E4C9D /* Info.plist */,
+				3019A78625250D8A007E4C9D /* File.swift */,
 			);
 			path = "GitUseExample-KevinPaul3A";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3019A77425250215007E4C9D /* ViewController.swift in Sources */,
+				3019A78725250D8A007E4C9D /* File.swift in Sources */,
 				3019A77025250215007E4C9D /* AppDelegate.swift in Sources */,
 				3019A77225250215007E4C9D /* SceneDelegate.swift in Sources */,
 			);
